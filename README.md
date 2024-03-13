@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **vijaygangula99@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/gangu/OneDrive/Desktop/krishanlinux..pdf](file:///C:/Users/gangu/OneDrive/Desktop/krishanlinux..pdf)
-
-- ⚡ Fun fact **I think i am a funny**
+- 📄 Know about my experiences (file:///C:/Users/gangu/OneDrive/Desktop/krishanlinux..pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

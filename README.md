@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishnagangula30
+- 👋 Hi, I’m @krishnagangula
 - 🌱 I’m currently learning Devops ENgineer
 - 📫 How to reach me vijaygangula99@gmail.com
 

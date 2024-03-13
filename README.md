@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **devops engineer**
 
-- 📝 I regularly write articles on ["Demystifying DevOps: Streamlining Software Delivery for Success]("Demystifying DevOps: Streamlining Software Delivery for Success)
+- 📝 I regularly write articles on ["Demystifying DevOps: Streamlining Software Delivery for Success]
 
 - 💬 Ask me about **devops, aws, azure**
 

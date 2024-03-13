@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm krishna gangula</h1>
 <h3 align="center">A passionate DevOpsEngineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*pCaz29jmBaD-KHaS4dlKaQ.gif">
